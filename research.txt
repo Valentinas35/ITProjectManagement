@@ -5,8 +5,14 @@ Statement of Scope:
 	and ultimately costs. It is what needs to be achieved and the work that must be done to
 	deliver a project (1)
 2. Define 'Statement of Scope'
+	A project scope statement is a useful tool to outline the project's deliverables and
+	identify the constraints, assumptions and key success factors. The well-written scope 
+	statement clearly defines the boundaries of a project. Before the project begins, the 
+	project team and the project stakeholders need to agree to the scope statement before
+	the project execution (2)
 
 
 
 References:
 (1)https://www.totallycommunications.com/latest/how-to-define-the-scope-of-a-project/
+(2)https://www.mindgenius.com/how-to-guides/project-scope-statement.aspx
