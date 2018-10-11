@@ -22,6 +22,10 @@
 		and how much achieving it can cost
 	Assumptions: Statements about how you will address uncertain information as you conceive,
 		plan, and perform your project (3)
+4. Summarize in Keywords
+	Constraints/Boundaries, Outline Project Deliverables, Confirm objectives, Expectations&Acceptance
+	Criteria for success, Assumptions
+	
 
 ========== Feasibility Study ==========
 1. Define 'Feasibility Study'
