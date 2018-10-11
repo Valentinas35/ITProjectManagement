@@ -1,0 +1,12 @@
+Statement of Scope:
+1. Define 'Project Scope'
+	Project scope is the part of the project planning that involves determining and documenting
+	a list of specific project goals, deliverables, features, functions, tasks, deadlines,
+	and ultimately costs. It is what needs to be achieved and the work that must be done to
+	deliver a project (1)
+2. Define 'Statement of Scope'
+
+
+
+References:
+(1)https://www.totallycommunications.com/latest/how-to-define-the-scope-of-a-project/
