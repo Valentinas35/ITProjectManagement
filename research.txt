@@ -1,4 +1,4 @@
-Statement of Scope:
+========== Statement of Scope ==========
 1. Define 'Project Scope'
 	Project scope is the part of the project planning that involves determining and documenting
 	a list of specific project goals, deliverables, features, functions, tasks, deadlines,
@@ -10,9 +10,22 @@ Statement of Scope:
 	statement clearly defines the boundaries of a project. Before the project begins, the 
 	project team and the project stakeholders need to agree to the scope statement before
 	the project execution (2)
+3. What is included in a 'Statement of Scope'
+	Justification: A brief statement regarding the business need your project addresses.
+	Product scope description: The characteristics of the products, services and/or results
+		your project will produce
+	Acceptance criteria: The conditions that must be met before project deliverables are accepted.
+	Deliverables: The products, services and/or results your project will produce. Can be
+		referred to as 'objectives'
+	Project Exclusions: Statements about what the project will not accomplish or produce
+	Constraints: Restrictions that limit what you can achieve, how and when you can achieve it
+		and how much achieving it can cost
+	Assumptions: Statements about how you will address uncertain information as you conceive,
+		plan, and perform your project (3)
 
 
 
 References:
 (1)https://www.totallycommunications.com/latest/how-to-define-the-scope-of-a-project/
 (2)https://www.mindgenius.com/how-to-guides/project-scope-statement.aspx
+(3)https://www.dummies.com/careers/project-management/what-to-include-in-a-project-scope-statement/
