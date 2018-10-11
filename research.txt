@@ -23,9 +23,24 @@
 	Assumptions: Statements about how you will address uncertain information as you conceive,
 		plan, and perform your project (3)
 
+========== Feasibility Study ==========
+1. Define 'Feasibility Study'
+	A feasibility study is an analysis used in measuring the ability and likelihood to complete a 
+	project successfully including all relevant factors
+2. Breaking down 'Feasibility Study'
+	Technical feasibility: The details on how a company will deliver goods or services, including
+		transportation, business location, technology needed, materials and labor.
+	Financial feasibility: A projection of the amount of funding or startup capital needed, what
+		sources of capital a business can and will use, and what is the return on investment. (4)
+	Social feasibility: Social impact assessment (SIA) is a process that provides a framework for
+		prioritizing, gathering, analyzing and incorporating social information and participation
+		into the design and delivery of projects. (5)
 
 
 References:
 (1)https://www.totallycommunications.com/latest/how-to-define-the-scope-of-a-project/
 (2)https://www.mindgenius.com/how-to-guides/project-scope-statement.aspx
 (3)https://www.dummies.com/careers/project-management/what-to-include-in-a-project-scope-statement/
+
+(4)https://www.investopedia.com/terms/f/feasibility-study.asp
+(5)https://www.pppinindia.gov.in/toolkit/ports/module2-ffaapdd-saef.php?links=fig4
