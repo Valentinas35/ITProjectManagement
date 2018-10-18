@@ -1,0 +1,27 @@
+================== Work Breakdown Structure (WBS) ==================
+1. Define Work Breakdown Structure:
+	WBS in a project management and systems engineering, is a deliverable-oriented breakdown
+	of a project into smaller components. A work breakdown structure is a key project deliverable
+	that organizes the team's work into manageable sections.
+2. Own definition of Work Breakdown Structure:
+	Breaking down project deliverables into smaller chunks that are less overwhelming for the team
+3. Steps to creating a 'Work Breakdown Structure'
+	- Determine the major deliverables or products to be produced (e.g. Create training program)
+	- Divide each of the major deliverables into smaller components to be completed (e.g. Conduct interview)
+	- Divide the smaller components into work pieces. (e.g. Select interviewees, prepare questions)
+4. Relate to own project:
+	
+	
+================== Product Breakdown Structure (PBS) ==================
+1. Define Product Breakdown Structure:
+	A PBS is a tool for analyzing, documenting and communicating the outcomes of a project,
+	and forms part of the product based planning technique
+2. Own definition of Product Breakdown Structure:
+	Breaking down the main product deliverables into smaller more manageable deliverables
+3. Steps to creating a Product Breakdown Structure
+	
+	
+	
+References/Bibliography:
+https://www.dummies.com/careers/project-management/how-to-create-a-work-breakdown-structure/
+https://www.apm.org.uk/resources/find-a-resource/use-of-product-breakdown-structures-and-work-breakdown-structures/

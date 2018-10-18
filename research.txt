@@ -24,7 +24,7 @@
 		plan, and perform your project (3)
 4. Summarize in Keywords
 	Constraints/Boundaries, Outline Project Deliverables, Confirm objectives, Expectations&Acceptance
-	Criteria for success, Assumptions
+	Criteria for success, Assumptions 
 	
 
 ========== Feasibility Study ==========
