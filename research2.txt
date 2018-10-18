@@ -10,6 +10,9 @@
 	- Divide each of the major deliverables into smaller components to be completed (e.g. Conduct interview)
 	- Divide the smaller components into work pieces. (e.g. Select interviewees, prepare questions)
 4. Relate to own project:
+	In our group project, we would use a WBS to get a better idea on how to prepare and present the
+	required deliverables. For example, in presenting a proof-of-concept we break it down to core deliverables
+	such as the 'Website', 'Report' and 'Presentation'
 	
 	
 ================== Product Breakdown Structure (PBS) ==================
@@ -22,7 +25,8 @@
 	- Identify final product under evaluation
 	- Breakdown final product into pieces that can be evaluated (encourages to consider minute details)
 	- Breakdown the evaluated pieces into the most basic pieces (shows the required work)
-4. Relate to own project:
+4. Relate to own project: For example, in creating a website we break it down to core deliverables
+	such as 'Design', 'Layout', 'Content', 'Proof-read', 'Publishing'
 	
 	
 References/Bibliography:
