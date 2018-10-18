@@ -19,9 +19,13 @@
 2. Own definition of Product Breakdown Structure:
 	Breaking down the main product deliverables into smaller more manageable deliverables
 3. Steps to creating a Product Breakdown Structure
-	
+	- Identify final product under evaluation
+	- Breakdown final product into pieces that can be evaluated (encourages to consider minute details)
+	- Breakdown the evaluated pieces into the most basic pieces (shows the required work)
+4. Relate to own project:
 	
 	
 References/Bibliography:
 https://www.dummies.com/careers/project-management/how-to-create-a-work-breakdown-structure/
 https://www.apm.org.uk/resources/find-a-resource/use-of-product-breakdown-structures-and-work-breakdown-structures/
+http://www.productbreakdownstructure.com/how-to-make-a-pbs.php
