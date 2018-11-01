@@ -42,9 +42,15 @@
 	- Ability to take risks						- Need for flexibility
 	- Type of management needed
 	
-==== 6. 
+==== 6. Current state-of-play for various PM process models in practice ====
+
+==== 7. Does a PM process model 'silver bullet' exist? ====
+	No, there is no perfect or silver bullet process model. Some projects would be better with one methodology over
+		the other. The methodology is to be decided based on project characteristics and other factors such as culture
+		and organization.
 	
 	
 	
 References:
 https://blog.azendoo.com/top-project-management-methodologies-and-styles/
+https://www.cio.com/article/2950579/methodology-frameworks/how-to-pick-a-project-management-methodology.html
