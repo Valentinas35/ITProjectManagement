@@ -1,0 +1,50 @@
+============= Lab Exercise 9 =============== Answer the following:
+==== 1. What is a project management process model? What is it used for? ====
+	A PM process model is an approach to carrying out the numerous stages of a project. Examples can be traditional
+		'waterfall' or an agile approach such as the 'Spiral model'
+
+==== 2. What fundamentally-different types of PM process models can you find? ====
+	- Agile, for projects that require extreme flexibility and speed
+	- Traditional, assess the tasks and provide a process to monitor completion
+	- Waterfall, tasks accomplished in sequence, similar to Traditional
+	- Adaptive, adjusting project scope as the project is being executed, new opportunities taken during duration
+	- Critical Path, project tasks that are dependent on one another.
+	- PERT, in development processes and manufacturing. Involves analyzing time/money taken to complete tasks
+	- Rational Unified Process, waterfall method with numerous iterations
+	- Critical chain, create goals and assemble teams based around their budget and other constraints
+	- Extreme, reduce total time of each repetitive cycle within a project
+	- Scrum, agile sprints
+	- Six stigma, reduce waste, improve project processes and increase profits
+	- Crystal, centered on the skills and interactions between people in the project to create unique product
+	- Joint application development, working together with client
+	
+==== 3. What are the significant difference between each of your found-and-investigated process models? ====
+	- The core difference is the approach taken (the model used), some are traditional where the tasks are completed in
+		sequence and some are agile where the tasks are completed in sprints or iterations.
+	- Other difference is what part of the project is most focused on. Some methodologies focus on just the tasks whereas
+		the others focus on the team interactions or time/budget constraints
+	
+==== 4. Strengths & Weaknesses of each model ====
+	- Agile,  Useful for projects with high flexibility. Useless in a project where the tasks are 'static' or well-defined
+	- Traditional, Useful for projects with well-defined objectives. Useless in a project without well-defined goals
+	- Waterfall,
+	- Adaptive, Useful for exploratory projects where scope can change. Not useful for projects with high time/budget
+		constraints
+	- Critical path, Useful for project tasks with dependencies and set time durations. Difficult to use with tasks
+		that don't have well defined time constraints
+	- PERT, 
+	...tbc...
+
+==== 5. What project characteristics should be considered when choosing on best-fit process model for the project? ====
+	- Organizational goals						- Core values
+	- Project constraints (time/budget)			- Project stakeholders
+	- Project size								- Cost of the project
+	- Ability to take risks						- Need for flexibility
+	- Type of management needed
+	
+==== 6. 
+	
+	
+	
+References:
+https://blog.azendoo.com/top-project-management-methodologies-and-styles/
