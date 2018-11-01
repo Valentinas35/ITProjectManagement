@@ -32,8 +32,13 @@
 		constraints
 	- Critical path, Useful for project tasks with dependencies and set time durations. Difficult to use with tasks
 		that don't have well defined time constraints
-	- PERT, 
-	...tbc...
+	- PERT, allows for realistic time lines and budgets for projects with similar predecessor projects. Not useful
+		for exploratory projects where similar projects haven't been completed before.
+	- Rational Unified Process, useful for software development where testing is a big phase of the project.
+		The iterative style is not useful for projects with critical tasks or path with dependencies.
+	- Critical chain, 
+	- Extreme, 
+	- Scrum, useful for projects with tasks that are not highly dependent on each other.
 
 ==== 5. What project characteristics should be considered when choosing on best-fit process model for the project? ====
 	- Organizational goals						- Core values
